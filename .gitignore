@@ -5,5 +5,5 @@ __pycache__/
 .Python
 env/
 venv/
-.venv/
+lecture_1/.venv/
 ENV/
